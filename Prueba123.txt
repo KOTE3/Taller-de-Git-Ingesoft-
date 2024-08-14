@@ -1,4 +1,8 @@
 Mi nombre es Pepito Perez soy el 
 
 CTO de Google y en mis tiempos libre corro carreras, escribo libro y hago cosas con rarars con Rasberry Pis
+<<<<<<< HEAD
 Hola mundo 123
+=======
+Hola mundo 4567
+>>>>>>> cabecera
